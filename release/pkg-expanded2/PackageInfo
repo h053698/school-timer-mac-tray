@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pkg-info overwrite-permissions="true" relocatable="false" identifier="com.schooltimer.app" postinstall-action="none" version="0" format-version="2" generator-version="InstallCmds-860.14 (24G325)" install-location="Applications" auth="root">
+    <payload numberOfFiles="113" installKBytes="38600"/>
+    <bundle id="dev.yuchan.schooltimer" CFBundleShortVersionString="0.0.0" path="./schooltimer.app"/>
+    <bundle-version>
+        <bundle id="dev.yuchan.schooltimer"/>
+    </bundle-version>
+    <upgrade-bundle>
+        <bundle id="dev.yuchan.schooltimer"/>
+    </upgrade-bundle>
+    <update-bundle/>
+    <atomic-update-bundle/>
+    <strict-identifier>
+        <bundle id="dev.yuchan.schooltimer"/>
+    </strict-identifier>
+    <relocate>
+        <bundle id="dev.yuchan.schooltimer"/>
+    </relocate>
+</pkg-info>

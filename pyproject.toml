@@ -1,0 +1,19 @@
+[project]
+name = "school-timer-mac-tray"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "comcigan>=1.4.9",
+    "pyobjc-core>=12.1",
+    "pyobjc-framework-cocoa>=12.1",
+    "pyobjc-framework-webkit>=12.1",
+    "requests>=2.33.0",
+    "rumps>=0.4.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pyinstaller>=6.14.0",
+]
