@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-school_bar.py — 선린인터넷고 3학년 4반 맥 메뉴바 앱 (완전 네이티브 UI)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 설치:
     pip install pyobjc-core pyobjc-framework-Cocoa comcigan
